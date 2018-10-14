@@ -1,9 +1,0 @@
-/app/
-/bower_components/
-/.idea/
-/dist/
-/node_modules/
-/tests/
-/tmp/
-/jsconfig.json
-/.DS_Store

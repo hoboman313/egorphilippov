@@ -3749,8 +3749,8 @@ if((0,o.isFullURL)(e))return e
 var n=[],r=t.host||Ember.get(this,"host")
 r&&(r=h(r)?m(r):r,n.push(r))
 var i=t.namespace||Ember.get(this,"namespace")
-if(i){if(new RegExp("^(/)?"+g(i)+"/").test(e))return e
-r?i=g(i):h(i)&&(i=m(i)),n.push(i)}return f(e)&&0!==n.length&&(e=d(e)),n.push(e),n.join("/")},handleResponse:function(e,t,n,r){return this.isSuccess(e,t,n)?n:(n=this.normalizeErrorResponse(e,t,n),this._createCorrectError(e,t,n,r))},_createCorrectError:function(e,n,r,i){var o=void 0
+i&&(r?i=g(i):h(i)&&(i=m(i)),new RegExp("^(/)?"+g(i)+"/").test(e)||n.push(i))
+return f(e)&&0!==n.length&&(e=d(e)),n.push(e),n.join("/")},handleResponse:function(e,t,n,r){return this.isSuccess(e,t,n)?n:(n=this.normalizeErrorResponse(e,t,n),this._createCorrectError(e,t,n,r))},_createCorrectError:function(e,n,r,i){var o=void 0
 if(this.isUnauthorizedError(e,n,r))o=new t.UnauthorizedError(r)
 else if(this.isForbiddenError(e,n,r))o=new t.ForbiddenError(r)
 else if(this.isInvalidError(e,n,r))o=new t.InvalidError(r)
