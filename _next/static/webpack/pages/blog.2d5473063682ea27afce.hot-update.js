@@ -1,0 +1,247 @@
+self["webpackHotUpdate_N_E"]("pages/blog",{
+
+/***/ "./pages/blog.tsx":
+/*!************************!*\
+  !*** ./pages/blog.tsx ***!
+  \************************/
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony import */ var react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! react/jsx-dev-runtime */ "./node_modules/react/jsx-dev-runtime.js");
+/* harmony import */ var next_head__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! next/head */ "./node_modules/next/head.js");
+/* harmony import */ var next_head__WEBPACK_IMPORTED_MODULE_1___default = /*#__PURE__*/__webpack_require__.n(next_head__WEBPACK_IMPORTED_MODULE_1__);
+/* harmony import */ var styled_components__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! styled-components */ "./node_modules/styled-components/dist/styled-components.browser.esm.js");
+/* harmony import */ var components__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! components */ "./components/Container.tsx");
+/* module decorator */ module = __webpack_require__.hmd(module);
+
+
+var _jsxFileName = "F:\\Projects\\egorphilippov\\pages\\blog.tsx",
+    _this = undefined;
+
+
+
+
+
+var Clients = function Clients() {
+  return /*#__PURE__*/(0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__.jsxDEV)(components__WEBPACK_IMPORTED_MODULE_2__.Container, {
+    children: [/*#__PURE__*/(0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__.jsxDEV)((next_head__WEBPACK_IMPORTED_MODULE_1___default()), {
+      children: /*#__PURE__*/(0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__.jsxDEV)("title", {
+        children: "Blog | Egor Philippov"
+      }, void 0, false, {
+        fileName: _jsxFileName,
+        lineNumber: 11,
+        columnNumber: 9
+      }, _this)
+    }, void 0, false, {
+      fileName: _jsxFileName,
+      lineNumber: 10,
+      columnNumber: 7
+    }, _this), /*#__PURE__*/(0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__.jsxDEV)(BlogContainer, {
+      children: /*#__PURE__*/(0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__.jsxDEV)(BlogEntry, {
+        id: "good-night-sweet-tomati",
+        children: [/*#__PURE__*/(0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__.jsxDEV)(EntryTitle, {
+          children: "Good night, sweet Tomati"
+        }, void 0, false, {
+          fileName: _jsxFileName,
+          lineNumber: 16,
+          columnNumber: 11
+        }, _this), /*#__PURE__*/(0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__.jsxDEV)(EntryDate, {
+          children: "Jan. 3, 2021"
+        }, void 0, false, {
+          fileName: _jsxFileName,
+          lineNumber: 17,
+          columnNumber: 11
+        }, _this), /*#__PURE__*/(0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__.jsxDEV)(EntryBody, {
+          children: ["Four years ago I started a project called Tomati with a goal to aggregate the health inspection data and use it to rate restaurants across Canada and US. Today I'm officially calling it quits.", /*#__PURE__*/(0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__.jsxDEV)(Spacer, {}, void 0, false, {
+            fileName: _jsxFileName,
+            lineNumber: 22,
+            columnNumber: 13
+          }, _this), "While it started out as a passion project to try to expose naughty restaurants, I've come to realize that maintaining over a dozen scrappers for crappy government sites is not how I like to spend my time. Getting exposure through Reddit and getting interviewed for by the news was cool, but getting harassed by restaurant owners for minimal gain is just not worth it. In the end, I failed to find a way to keep users to coming back and I don't want to be in the business of selling negativity.", /*#__PURE__*/(0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__.jsxDEV)(Spacer, {}, void 0, false, {
+            fileName: _jsxFileName,
+            lineNumber: 29,
+            columnNumber: 13
+          }, _this), "Note to future self:", /*#__PURE__*/(0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__.jsxDEV)("ul", {
+            children: [/*#__PURE__*/(0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__.jsxDEV)("li", {
+              children: ["Never cheap out on server auto-scaling in case you accidentally blow up. Getting hugged to death when it's time to shine and getting angry emails and 1 \u2B50 reviews is a very ", /*#__PURE__*/(0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__.jsxDEV)(Italic, {
+                children: "feelsbadman"
+              }, void 0, false, {
+                fileName: _jsxFileName,
+                lineNumber: 35,
+                columnNumber: 35
+              }, _this), " moment."]
+            }, void 0, true, {
+              fileName: _jsxFileName,
+              lineNumber: 32,
+              columnNumber: 15
+            }, _this), /*#__PURE__*/(0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__.jsxDEV)("li", {
+              children: "Reddit is fantastic for marketing and getting feedback. Just need to find the appropriate subreddits and be prepared to engage with its inhabitants."
+            }, void 0, false, {
+              fileName: _jsxFileName,
+              lineNumber: 37,
+              columnNumber: 15
+            }, _this), /*#__PURE__*/(0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__.jsxDEV)("li", {
+              children: "Figure out how the business will be monetized right away. How will you keep the users coming back? This is where the network effect is most powerful."
+            }, void 0, false, {
+              fileName: _jsxFileName,
+              lineNumber: 41,
+              columnNumber: 15
+            }, _this)]
+          }, void 0, true, {
+            fileName: _jsxFileName,
+            lineNumber: 31,
+            columnNumber: 13
+          }, _this), /*#__PURE__*/(0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__.jsxDEV)(Spacer, {}, void 0, false, {
+            fileName: _jsxFileName,
+            lineNumber: 46,
+            columnNumber: 13
+          }, _this), "On to the next one."]
+        }, void 0, true, {
+          fileName: _jsxFileName,
+          lineNumber: 18,
+          columnNumber: 11
+        }, _this)]
+      }, void 0, true, {
+        fileName: _jsxFileName,
+        lineNumber: 15,
+        columnNumber: 9
+      }, _this)
+    }, void 0, false, {
+      fileName: _jsxFileName,
+      lineNumber: 14,
+      columnNumber: 7
+    }, _this)]
+  }, void 0, true, {
+    fileName: _jsxFileName,
+    lineNumber: 9,
+    columnNumber: 5
+  }, _this);
+};
+
+_c = Clients;
+var Italic = styled_components__WEBPACK_IMPORTED_MODULE_3__.default.span.withConfig({
+  displayName: "blog__Italic",
+  componentId: "sc-11pogob-0"
+})(["font-style:italic;"]);
+_c2 = Italic;
+var Spacer = styled_components__WEBPACK_IMPORTED_MODULE_3__.default.div.withConfig({
+  displayName: "blog__Spacer",
+  componentId: "sc-11pogob-1"
+})(["height:", ";"], function (_ref) {
+  var theme = _ref.theme;
+  return theme.spacing.small;
+});
+_c3 = Spacer;
+var EntryBody = styled_components__WEBPACK_IMPORTED_MODULE_3__.default.p.withConfig({
+  displayName: "blog__EntryBody",
+  componentId: "sc-11pogob-2"
+})(["margin-top:", ";line-height:1.5;ul li{list-style-type:disc;margin-left:2.5rem;}"], function (_ref2) {
+  var theme = _ref2.theme;
+  return theme.spacing.medium;
+});
+_c4 = EntryBody;
+var EntryTitle = styled_components__WEBPACK_IMPORTED_MODULE_3__.default.h2.withConfig({
+  displayName: "blog__EntryTitle",
+  componentId: "sc-11pogob-3"
+})(["color:", ";font-size:1.2em;"], function (_ref3) {
+  var theme = _ref3.theme;
+  return theme.colors.brand;
+});
+_c5 = EntryTitle;
+var EntryDate = styled_components__WEBPACK_IMPORTED_MODULE_3__.default.p.withConfig({
+  displayName: "blog__EntryDate",
+  componentId: "sc-11pogob-4"
+})(["font-size:0.9em;"]);
+_c6 = EntryDate;
+var BlogContainer = styled_components__WEBPACK_IMPORTED_MODULE_3__.default.div.withConfig({
+  displayName: "blog__BlogContainer",
+  componentId: "sc-11pogob-5"
+})(["font-size:1.25em;margin:0 10vw;@media (max-width:", "){margin:0 3vw;}"], function (_ref4) {
+  var theme = _ref4.theme;
+  return theme.breakpoints.mobile;
+});
+_c7 = BlogContainer;
+var BlogEntry = styled_components__WEBPACK_IMPORTED_MODULE_3__.default.div.withConfig({
+  displayName: "blog__BlogEntry",
+  componentId: "sc-11pogob-6"
+})([":after{margin:", " 0;width:100%;content:'';display:block;border-bottom:2px solid ", ";}"], function (_ref5) {
+  var theme = _ref5.theme;
+  return theme.spacing.large;
+}, function (_ref6) {
+  var theme = _ref6.theme;
+  return theme.colors.brand;
+});
+_c8 = BlogEntry;
+/* harmony default export */ __webpack_exports__["default"] = (Clients);
+
+var _c, _c2, _c3, _c4, _c5, _c6, _c7, _c8;
+
+$RefreshReg$(_c, "Clients");
+$RefreshReg$(_c2, "Italic");
+$RefreshReg$(_c3, "Spacer");
+$RefreshReg$(_c4, "EntryBody");
+$RefreshReg$(_c5, "EntryTitle");
+$RefreshReg$(_c6, "EntryDate");
+$RefreshReg$(_c7, "BlogContainer");
+$RefreshReg$(_c8, "BlogEntry");
+
+;
+    var _a, _b;
+    // Legacy CSS implementations will `eval` browser code in a Node.js context
+    // to extract CSS. For backwards compatibility, we need to check we're in a
+    // browser context before continuing.
+    if (typeof self !== 'undefined' &&
+        // AMP / No-JS mode does not inject these helpers:
+        '$RefreshHelpers$' in self) {
+        var currentExports = module.__proto__.exports;
+        var prevExports = (_b = (_a = module.hot.data) === null || _a === void 0 ? void 0 : _a.prevExports) !== null && _b !== void 0 ? _b : null;
+        // This cannot happen in MainTemplate because the exports mismatch between
+        // templating and execution.
+        self.$RefreshHelpers$.registerExportsForReactRefresh(currentExports, module.id);
+        // A module can be accepted automatically based on its exports, e.g. when
+        // it is a Refresh Boundary.
+        if (self.$RefreshHelpers$.isReactRefreshBoundary(currentExports)) {
+            // Save the previous exports on update so we can compare the boundary
+            // signatures.
+            module.hot.dispose(function (data) {
+                data.prevExports = currentExports;
+            });
+            // Unconditionally accept an update to this module, we'll check if it's
+            // still a Refresh Boundary later.
+            module.hot.accept();
+            // This field is set when the previous version of this module was a
+            // Refresh Boundary, letting us know we need to check for invalidation or
+            // enqueue an update.
+            if (prevExports !== null) {
+                // A boundary can become ineligible if its exports are incompatible
+                // with the previous exports.
+                //
+                // For example, if you add/remove/change exports, we'll want to
+                // re-execute the importing modules, and force those components to
+                // re-render. Similarly, if you convert a class component to a
+                // function, we want to invalidate the boundary.
+                if (self.$RefreshHelpers$.shouldInvalidateReactRefreshBoundary(prevExports, currentExports)) {
+                    module.hot.invalidate();
+                }
+                else {
+                    self.$RefreshHelpers$.scheduleUpdate();
+                }
+            }
+        }
+        else {
+            // Since we just executed the code for the module, it's possible that the
+            // new exports made it ineligible for being a boundary.
+            // We only care about the case when we were _previously_ a boundary,
+            // because we already accepted this update (accidental side effect).
+            var isNoLongerABoundary = prevExports !== null;
+            if (isNoLongerABoundary) {
+                module.hot.invalidate();
+            }
+        }
+    }
+
+
+/***/ })
+
+});
+//# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbIndlYnBhY2s6Ly9fTl9FLy4vcGFnZXMvYmxvZy50c3giXSwibmFtZXMiOlsiQ2xpZW50cyIsIkl0YWxpYyIsInN0eWxlZCIsIlNwYWNlciIsInRoZW1lIiwic3BhY2luZyIsInNtYWxsIiwiRW50cnlCb2R5IiwibWVkaXVtIiwiRW50cnlUaXRsZSIsImNvbG9ycyIsImJyYW5kIiwiRW50cnlEYXRlIiwiQmxvZ0NvbnRhaW5lciIsImJyZWFrcG9pbnRzIiwibW9iaWxlIiwiQmxvZ0VudHJ5IiwibGFyZ2UiXSwibWFwcGluZ3MiOiI7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7OztBQUFBO0FBRUE7QUFFQTs7QUFFQSxJQUFNQSxPQUFpQixHQUFHLFNBQXBCQSxPQUFvQixHQUFNO0FBQzlCLHNCQUNFLDhEQUFDLGlEQUFEO0FBQUEsNEJBQ0UsOERBQUMsa0RBQUQ7QUFBQSw2QkFDRTtBQUFBO0FBQUE7QUFBQTtBQUFBO0FBQUE7QUFBQTtBQURGO0FBQUE7QUFBQTtBQUFBO0FBQUEsYUFERixlQUtFLDhEQUFDLGFBQUQ7QUFBQSw2QkFDRSw4REFBQyxTQUFEO0FBQVcsVUFBRSxFQUFDLHlCQUFkO0FBQUEsZ0NBQ0UsOERBQUMsVUFBRDtBQUFBO0FBQUE7QUFBQTtBQUFBO0FBQUE7QUFBQSxpQkFERixlQUVFLDhEQUFDLFNBQUQ7QUFBQTtBQUFBO0FBQUE7QUFBQTtBQUFBO0FBQUEsaUJBRkYsZUFHRSw4REFBQyxTQUFEO0FBQUEsc09BSUUsOERBQUMsTUFBRDtBQUFBO0FBQUE7QUFBQTtBQUFBLG1CQUpGLGdnQkFXRSw4REFBQyxNQUFEO0FBQUE7QUFBQTtBQUFBO0FBQUEsbUJBWEYsdUNBYUU7QUFBQSxvQ0FDRTtBQUFBLDJOQUdvQiw4REFBQyxNQUFEO0FBQUE7QUFBQTtBQUFBO0FBQUE7QUFBQTtBQUFBLHVCQUhwQjtBQUFBO0FBQUE7QUFBQTtBQUFBO0FBQUEscUJBREYsZUFNRTtBQUFBO0FBQUE7QUFBQTtBQUFBO0FBQUE7QUFBQSxxQkFORixlQVVFO0FBQUE7QUFBQTtBQUFBO0FBQUE7QUFBQTtBQUFBLHFCQVZGO0FBQUE7QUFBQTtBQUFBO0FBQUE7QUFBQSxtQkFiRixlQTRCRSw4REFBQyxNQUFEO0FBQUE7QUFBQTtBQUFBO0FBQUEsbUJBNUJGO0FBQUE7QUFBQTtBQUFBO0FBQUE7QUFBQSxpQkFIRjtBQUFBO0FBQUE7QUFBQTtBQUFBO0FBQUE7QUFERjtBQUFBO0FBQUE7QUFBQTtBQUFBLGFBTEY7QUFBQTtBQUFBO0FBQUE7QUFBQTtBQUFBLFdBREY7QUE2Q0QsQ0E5Q0Q7O0tBQU1BLE87QUFnRE4sSUFBTUMsTUFBTSxHQUFHQyxzRUFBSDtBQUFBO0FBQUE7QUFBQSwwQkFBWjtNQUFNRCxNO0FBR04sSUFBTUUsTUFBTSxHQUFHRCxxRUFBSDtBQUFBO0FBQUE7QUFBQSxxQkFDQTtBQUFBLE1BQUdFLEtBQUgsUUFBR0EsS0FBSDtBQUFBLFNBQWVBLEtBQUssQ0FBQ0MsT0FBTixDQUFjQyxLQUE3QjtBQUFBLENBREEsQ0FBWjtNQUFNSCxNO0FBR04sSUFBTUksU0FBUyxHQUFHTCxtRUFBSDtBQUFBO0FBQUE7QUFBQSx3RkFDQztBQUFBLE1BQUdFLEtBQUgsU0FBR0EsS0FBSDtBQUFBLFNBQWVBLEtBQUssQ0FBQ0MsT0FBTixDQUFjRyxNQUE3QjtBQUFBLENBREQsQ0FBZjtNQUFNRCxTO0FBU04sSUFBTUUsVUFBVSxHQUFHUCxvRUFBSDtBQUFBO0FBQUE7QUFBQSxvQ0FDTDtBQUFBLE1BQUdFLEtBQUgsU0FBR0EsS0FBSDtBQUFBLFNBQWVBLEtBQUssQ0FBQ00sTUFBTixDQUFhQyxLQUE1QjtBQUFBLENBREssQ0FBaEI7TUFBTUYsVTtBQUlOLElBQU1HLFNBQVMsR0FBR1YsbUVBQUg7QUFBQTtBQUFBO0FBQUEsd0JBQWY7TUFBTVUsUztBQUdOLElBQU1DLGFBQWEsR0FBR1gscUVBQUg7QUFBQTtBQUFBO0FBQUEsOEVBSUk7QUFBQSxNQUFHRSxLQUFILFNBQUdBLEtBQUg7QUFBQSxTQUFlQSxLQUFLLENBQUNVLFdBQU4sQ0FBa0JDLE1BQWpDO0FBQUEsQ0FKSixDQUFuQjtNQUFNRixhO0FBUU4sSUFBTUcsU0FBUyxHQUFHZCxxRUFBSDtBQUFBO0FBQUE7QUFBQSxnR0FFRDtBQUFBLE1BQUdFLEtBQUgsU0FBR0EsS0FBSDtBQUFBLFNBQWVBLEtBQUssQ0FBQ0MsT0FBTixDQUFjWSxLQUE3QjtBQUFBLENBRkMsRUFNZ0I7QUFBQSxNQUFHYixLQUFILFNBQUdBLEtBQUg7QUFBQSxTQUFlQSxLQUFLLENBQUNNLE1BQU4sQ0FBYUMsS0FBNUI7QUFBQSxDQU5oQixDQUFmO01BQU1LLFM7QUFVTiwrREFBZWhCLE9BQWYiLCJmaWxlIjoic3RhdGljL3dlYnBhY2svcGFnZXMvYmxvZy4yZDU0NzMwNjM2ODJlYTI3YWZjZS5ob3QtdXBkYXRlLmpzIiwic291cmNlc0NvbnRlbnQiOlsiaW1wb3J0IEhlYWQgZnJvbSAnbmV4dC9oZWFkJztcclxuaW1wb3J0IHsgTmV4dFBhZ2UgfSBmcm9tICduZXh0JztcclxuaW1wb3J0IHN0eWxlZCBmcm9tICdzdHlsZWQtY29tcG9uZW50cyc7XHJcblxyXG5pbXBvcnQgeyBDb250YWluZXIgfSBmcm9tICdjb21wb25lbnRzJztcclxuXHJcbmNvbnN0IENsaWVudHM6IE5leHRQYWdlID0gKCkgPT4ge1xyXG4gIHJldHVybiAoXHJcbiAgICA8Q29udGFpbmVyPlxyXG4gICAgICA8SGVhZD5cclxuICAgICAgICA8dGl0bGU+QmxvZyB8IEVnb3IgUGhpbGlwcG92PC90aXRsZT5cclxuICAgICAgPC9IZWFkPlxyXG5cclxuICAgICAgPEJsb2dDb250YWluZXI+XHJcbiAgICAgICAgPEJsb2dFbnRyeSBpZD1cImdvb2QtbmlnaHQtc3dlZXQtdG9tYXRpXCI+XHJcbiAgICAgICAgICA8RW50cnlUaXRsZT5Hb29kIG5pZ2h0LCBzd2VldCBUb21hdGk8L0VudHJ5VGl0bGU+XHJcbiAgICAgICAgICA8RW50cnlEYXRlPkphbi4gMywgMjAyMTwvRW50cnlEYXRlPlxyXG4gICAgICAgICAgPEVudHJ5Qm9keT5cclxuICAgICAgICAgICAgRm91ciB5ZWFycyBhZ28gSSBzdGFydGVkIGEgcHJvamVjdCBjYWxsZWQgVG9tYXRpIHdpdGggYSBnb2FsIHRvIGFnZ3JlZ2F0ZSB0aGUgaGVhbHRoXHJcbiAgICAgICAgICAgIGluc3BlY3Rpb24gZGF0YSBhbmQgdXNlIGl0IHRvIHJhdGUgcmVzdGF1cmFudHMgYWNyb3NzIENhbmFkYSBhbmQgVVMuIFRvZGF5IEkmYXBvczttXHJcbiAgICAgICAgICAgIG9mZmljaWFsbHkgY2FsbGluZyBpdCBxdWl0cy5cclxuICAgICAgICAgICAgPFNwYWNlciAvPlxyXG4gICAgICAgICAgICBXaGlsZSBpdCBzdGFydGVkIG91dCBhcyBhIHBhc3Npb24gcHJvamVjdCB0byB0cnkgdG8gZXhwb3NlIG5hdWdodHkgcmVzdGF1cmFudHMsXHJcbiAgICAgICAgICAgIEkmYXBvczt2ZSBjb21lIHRvIHJlYWxpemUgdGhhdCBtYWludGFpbmluZyBvdmVyIGEgZG96ZW4gc2NyYXBwZXJzIGZvciBjcmFwcHkgZ292ZXJubWVudFxyXG4gICAgICAgICAgICBzaXRlcyBpcyBub3QgaG93IEkgbGlrZSB0byBzcGVuZCBteSB0aW1lLiBHZXR0aW5nIGV4cG9zdXJlIHRocm91Z2ggUmVkZGl0IGFuZCBnZXR0aW5nXHJcbiAgICAgICAgICAgIGludGVydmlld2VkIGZvciBieSB0aGUgbmV3cyB3YXMgY29vbCwgYnV0IGdldHRpbmcgaGFyYXNzZWQgYnkgcmVzdGF1cmFudCBvd25lcnMgZm9yXHJcbiAgICAgICAgICAgIG1pbmltYWwgZ2FpbiBpcyBqdXN0IG5vdCB3b3J0aCBpdC4gSW4gdGhlIGVuZCwgSSBmYWlsZWQgdG8gZmluZCBhIHdheSB0byBrZWVwIHVzZXJzIHRvXHJcbiAgICAgICAgICAgIGNvbWluZyBiYWNrIGFuZCBJIGRvbiZhcG9zO3Qgd2FudCB0byBiZSBpbiB0aGUgYnVzaW5lc3Mgb2Ygc2VsbGluZyBuZWdhdGl2aXR5LlxyXG4gICAgICAgICAgICA8U3BhY2VyIC8+XHJcbiAgICAgICAgICAgIE5vdGUgdG8gZnV0dXJlIHNlbGY6XHJcbiAgICAgICAgICAgIDx1bD5cclxuICAgICAgICAgICAgICA8bGk+XHJcbiAgICAgICAgICAgICAgICBOZXZlciBjaGVhcCBvdXQgb24gc2VydmVyIGF1dG8tc2NhbGluZyBpbiBjYXNlIHlvdSBhY2NpZGVudGFsbHkgYmxvdyB1cC4gR2V0dGluZ1xyXG4gICAgICAgICAgICAgICAgaHVnZ2VkIHRvIGRlYXRoIHdoZW4gaXQmYXBvcztzIHRpbWUgdG8gc2hpbmUgYW5kIGdldHRpbmcgYW5ncnkgZW1haWxzIGFuZCAxIOKtkFxyXG4gICAgICAgICAgICAgICAgcmV2aWV3cyBpcyBhIHZlcnkgPEl0YWxpYz5mZWVsc2JhZG1hbjwvSXRhbGljPiBtb21lbnQuXHJcbiAgICAgICAgICAgICAgPC9saT5cclxuICAgICAgICAgICAgICA8bGk+XHJcbiAgICAgICAgICAgICAgICBSZWRkaXQgaXMgZmFudGFzdGljIGZvciBtYXJrZXRpbmcgYW5kIGdldHRpbmcgZmVlZGJhY2suIEp1c3QgbmVlZCB0byBmaW5kIHRoZVxyXG4gICAgICAgICAgICAgICAgYXBwcm9wcmlhdGUgc3VicmVkZGl0cyBhbmQgYmUgcHJlcGFyZWQgdG8gZW5nYWdlIHdpdGggaXRzIGluaGFiaXRhbnRzLlxyXG4gICAgICAgICAgICAgIDwvbGk+XHJcbiAgICAgICAgICAgICAgPGxpPlxyXG4gICAgICAgICAgICAgICAgRmlndXJlIG91dCBob3cgdGhlIGJ1c2luZXNzIHdpbGwgYmUgbW9uZXRpemVkIHJpZ2h0IGF3YXkuIEhvdyB3aWxsIHlvdSBrZWVwIHRoZVxyXG4gICAgICAgICAgICAgICAgdXNlcnMgY29taW5nIGJhY2s/IFRoaXMgaXMgd2hlcmUgdGhlIG5ldHdvcmsgZWZmZWN0IGlzIG1vc3QgcG93ZXJmdWwuXHJcbiAgICAgICAgICAgICAgPC9saT5cclxuICAgICAgICAgICAgPC91bD5cclxuICAgICAgICAgICAgPFNwYWNlciAvPlxyXG4gICAgICAgICAgICBPbiB0byB0aGUgbmV4dCBvbmUuXHJcbiAgICAgICAgICA8L0VudHJ5Qm9keT5cclxuICAgICAgICA8L0Jsb2dFbnRyeT5cclxuICAgICAgPC9CbG9nQ29udGFpbmVyPlxyXG4gICAgPC9Db250YWluZXI+XHJcbiAgKTtcclxufTtcclxuXHJcbmNvbnN0IEl0YWxpYyA9IHN0eWxlZC5zcGFuYFxyXG4gIGZvbnQtc3R5bGU6IGl0YWxpYztcclxuYDtcclxuY29uc3QgU3BhY2VyID0gc3R5bGVkLmRpdmBcclxuICBoZWlnaHQ6ICR7KHsgdGhlbWUgfSkgPT4gdGhlbWUuc3BhY2luZy5zbWFsbH07XHJcbmA7XHJcbmNvbnN0IEVudHJ5Qm9keSA9IHN0eWxlZC5wYFxyXG4gIG1hcmdpbi10b3A6ICR7KHsgdGhlbWUgfSkgPT4gdGhlbWUuc3BhY2luZy5tZWRpdW19O1xyXG4gIGxpbmUtaGVpZ2h0OiAxLjU7XHJcblxyXG4gIHVsIGxpIHtcclxuICAgIGxpc3Qtc3R5bGUtdHlwZTogZGlzYztcclxuICAgIG1hcmdpbi1sZWZ0OiAyLjVyZW07XHJcbiAgfVxyXG5gO1xyXG5jb25zdCBFbnRyeVRpdGxlID0gc3R5bGVkLmgyYFxyXG4gIGNvbG9yOiAkeyh7IHRoZW1lIH0pID0+IHRoZW1lLmNvbG9ycy5icmFuZH07XHJcbiAgZm9udC1zaXplOiAxLjJlbTtcclxuYDtcclxuY29uc3QgRW50cnlEYXRlID0gc3R5bGVkLnBgXHJcbiAgZm9udC1zaXplOiAwLjllbTtcclxuYDtcclxuY29uc3QgQmxvZ0NvbnRhaW5lciA9IHN0eWxlZC5kaXZgXHJcbiAgZm9udC1zaXplOiAxLjI1ZW07XHJcbiAgbWFyZ2luOiAwIDEwdnc7XHJcblxyXG4gIEBtZWRpYSAobWF4LXdpZHRoOiAkeyh7IHRoZW1lIH0pID0+IHRoZW1lLmJyZWFrcG9pbnRzLm1vYmlsZX0pIHtcclxuICAgIG1hcmdpbjogMCAzdnc7XHJcbiAgfVxyXG5gO1xyXG5jb25zdCBCbG9nRW50cnkgPSBzdHlsZWQuZGl2YFxyXG4gIDphZnRlciB7XHJcbiAgICBtYXJnaW46ICR7KHsgdGhlbWUgfSkgPT4gdGhlbWUuc3BhY2luZy5sYXJnZX0gMDtcclxuICAgIHdpZHRoOiAxMDAlO1xyXG4gICAgY29udGVudDogJyc7XHJcbiAgICBkaXNwbGF5OiBibG9jaztcclxuICAgIGJvcmRlci1ib3R0b206IDJweCBzb2xpZCAkeyh7IHRoZW1lIH0pID0+IHRoZW1lLmNvbG9ycy5icmFuZH07XHJcbiAgfVxyXG5gO1xyXG5cclxuZXhwb3J0IGRlZmF1bHQgQ2xpZW50cztcclxuIl0sInNvdXJjZVJvb3QiOiIifQ==
